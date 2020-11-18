@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieCataloegueRepositoryArch</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="nohflix">NOHFLIX</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Movies</string>
+    <string name="tvshow">Tv Shows</string>
+    <string name="copyright">Made by Daffa Radifanka</string>
+    <string name="discovery_your_movies">Discovery Your Movies</string>
+    <string name="view_more">View More</string>
+    <string name="watch_tv_now">Watch TV Now</string>
+    <string name="release_date">Release: %s</string>
+    <string name="overview">Overview :</string>
+    <string name="menu_rating">Rating :</string>
+    <string name="cast">Cast</string>
+    <string name="favorite">Favorite</string>
+    <string name="message_undo">Batalkan penghapusan ?</string>
+    <string name="message_ok">OK</string>
+
+</resources>
